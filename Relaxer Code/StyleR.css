@@ -25,17 +25,24 @@ header {
 }
 /*^^^ background image and header */
 
-h1 {
-	text-align: left;
+header a {
 	font-size: 30px;
+	font-weight: 800;
+	text-align: left;
 	padding-bottom: 30px;
 	padding-left: 15px;
+	text-decoration: none;
+	color: white;
+	position: absolute;
+	top: 10px;
+	left: 40px;
 }
 #tagline {
 	text-align: center;
 	font-size: 30px;
 	font-style: bold;
 	padding-bottom: 20px;
+	padding-top: 60px;
 }
 /*^^^ header and tagline */
 
